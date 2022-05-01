@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;1,300&display=swap');
+
+html {
+  font-family: 'Poppins', sans-serif;
+  font-size: 62.5%;
+}
+
+body{
+  text-align: center;
+  font-size: 1.8rem;
+  color: #fff;
+  background-color: #faebd7;
+}
+
+h1 {
+  color: #000000;
+  text-align: start;
+  text-transform: uppercase;
+}
+
+
+.titulo-tabela {
+  font-weight: 400;
+  margin-top: 2.4rem;
+  color: #000;
+  text-align: start;
+}
+
+.cor-fundo-cabecalho-moda {
+  background-color: #BB86FC;
+}
+
+.cor-fundo-cabecalho-casa {
+  background-color: #00C4B4;
+}
+
+.cor-fundo-valores {
+  background-color: #424250;
+  font-size: 1.5rem;
+}
