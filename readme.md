@@ -13,4 +13,4 @@
 
 ## Resultado
 
-![image](https://user-images.githubusercontent.com/79549424/166155523-f3c8d46e-5290-45ef-ac9c-5355cc4d35a1.png)
+![image](https://user-images.githubusercontent.com/79549424/167403253-46d50820-88cd-47cf-8a3a-6a34c3d1d6fb.png)
